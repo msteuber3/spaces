@@ -1,4 +1,6 @@
 # Spaces - VR hub project 
-
-@todo - Discuss 3d assets
+<p>
+@todo - Discuss 3d assets </p>  
+<p>
 @todo - Discuss licensing issues 
+</p>  
